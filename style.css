@@ -1,0 +1,16 @@
+.img{
+  height: 235px;
+  width: 445px;
+  background-image: url(https://masai-course.s3.ap-south-1.amazonaws.com/resources/images/masai_banner.jpg);
+  background-size: contain;
+}
+h3{
+  font-weight: lighter;
+}
+
+#name{
+  margin-left: 57px;
+}
+#email{
+  margin-left: 60px;
+}
